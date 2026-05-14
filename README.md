@@ -16,15 +16,15 @@ Large datasets, trained checkpoints, generated result dumps, logs, archives, and
 ## Setup
 
 ```bash
-pip install -r 代码/requirements.txt
+pip install -r code/requirements.txt
 ```
 
 ## Main Scripts
 
 ```bash
-python 代码/run.py
-python 代码/ensemble_detector.py
-python 代码/enhanced_detector.py
+python code/run.py
+python code/ensemble_detector.py
+python code/enhanced_detector.py
 ```
 
 ## Notes

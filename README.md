@@ -6,8 +6,8 @@ I ranked 10th in Task 1. The method combines hierarchical feature fusion with he
 
 ## Repository Contents
 
-- `代码/`: training, inference, feature extraction, augmentation, and ensemble scripts
-- `代码/requirements.txt`: Python dependencies
+- `code/`: training, inference, feature extraction, augmentation, and ensemble scripts
+- `code/requirements.txt`: Python dependencies
 - `figure/`: analysis and experiment figures
 - `层次化特征融合与异构集成的中文 LLM生成文本检测方法.pdf`: project report
 

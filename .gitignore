@@ -1,0 +1,56 @@
+﻿# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS files
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+
+# Logs and runtime artifacts
+logs/
+*.log
+runs/
+wandb/
+
+# Large datasets and generated data
+/data/
+/augmented_data/
+
+# Model checkpoints and trained weights
+/model_output/
+/enhanced_model_output/
+/output/
+/sklearn_models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.pkl
+*.joblib
+
+# Prediction/result dumps
+*.json
+!package*.json
+
+# Archives and videos
+*.7z
+*.zip
+*.rar
+*.tar
+*.gz
+*.mp4
+*.avi
+*.mov
+
+# Local notebooks/checkpoints
+.ipynb_checkpoints/
